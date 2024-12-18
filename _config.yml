@@ -18,7 +18,7 @@ description: >-                        # used by seo meta and the atom feed
   CTF Solutions.
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'https://Intrusionz3r0.github.io'
+url: 'intrusionz3r0x.github.io'
 
 author: Adrian Guzman                  # change to your full name
 
@@ -31,7 +31,7 @@ twitter:
   username: adrianinkblack            # change to your twitter username
 
 social:
-  name: Luis Adrian Morales Guzman                  # it will shows as the copyright owner in Footer
+  name: Adrian Guzman                  # it will shows as the copyright owner in Footer
   email: adrian-offsec@protonmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
