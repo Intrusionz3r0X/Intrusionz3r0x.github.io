@@ -20,7 +20,7 @@ description: >-                        # used by seo meta and the atom feed
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://Intrusionz3r0.github.io'
 
-author: Adrian Inkblack                  # change to your full name
+author: Adrian Guzman                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
@@ -35,8 +35,8 @@ social:
   email: adrian-offsec@protonmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/adrianinkblack      # change to your twitter homepage
-    - https://github.com/Intrusionz3r0       # change to your github homepage
+    - https://x.com/IntrusionZ3r0      # change to your twitter homepage
+    - https://github.com/Intrusionz3r0X       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/luis-adrian-morales-guzman
@@ -78,7 +78,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode: light
+theme_mode: dark
 
 # boolean type, global switch for ToC in posts.
 toc: true
